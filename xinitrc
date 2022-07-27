@@ -1,0 +1,2 @@
+kitty &
+exec ./uwum
